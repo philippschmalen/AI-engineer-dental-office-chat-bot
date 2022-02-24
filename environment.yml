@@ -4,26 +4,18 @@ channels:
   - defaults
 dependencies:
   - python=3.8
-  - pip=22.0.2
-  - nodejs=17.4.0
+  - pip
   - azure-storage-blob
   - jupyterlab
   - black
   - flake8
-  - pyyaml
-  - pandas
   - pre-commit
   - azure-identity
   - azure-storage-file
   - faker
+  - pandas
   - python-dotenv
   - pydantic
   - mypy
   - mlflow
-  - pip:
-      - dvc[azure]==2.9.3
-      - azure-ai-formrecognizer==3.1.2
-      - azure-cognitiveservices-vision-face==0.6.0
-      - video_indexer==0.1.8
-      - pillow==9.0.1
-      - azure-cognitiveservices-vision-customvision==3.1.0
+  - nodejs

@@ -8,7 +8,7 @@
 
 Build a customer-facing chatbot that answers to FAQ and books appointments.
 
-### Key results 🛣️🪧
+### 🛣️ Key results
 
 > *How* you want to fulfill the objective. List measurable outcome required to achieve the objective. They measure progress towards the objective.
 
@@ -17,6 +17,8 @@ Build a customer-facing chatbot that answers to FAQ and books appointments.
 
 
 ### Data
+
+![](img/chatbot-overview.png)
 
 ---
 
@@ -33,5 +35,3 @@ pre-commit autoupdate
 ```
 
 Create `.env` and insert necessary credentials.
-
-

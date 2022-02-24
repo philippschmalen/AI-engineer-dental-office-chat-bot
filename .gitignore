@@ -3,6 +3,8 @@
 data
 starter-code
 .vscode
+.dev
+sandbox
 
 # terraform
 .terraform
